@@ -20,7 +20,7 @@ author: EmiratiCoder
 ###############################################
 
 navbar-links:
-  Home: "home"
+  Home: "#"
   About Me: "aboutme"
   Resources:
     - Pentesting CheatSheet: "#"

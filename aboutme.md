@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 'Read below if you want to do some OSINT on me :)'
 published: true
 ---
 

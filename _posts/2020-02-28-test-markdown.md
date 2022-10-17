@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pentesting CheatSheet
-subtitle: Each post also has a subtitle
+subtitle: My ultimate cheatsheet for pentesting and more..
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star
@@ -9,7 +9,7 @@ gh-badge:
   - follow
 tags:
   - test
-comments: true
+comments: false
 published: true
 ---
 # Enumeration

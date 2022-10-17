@@ -2,15 +2,25 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My Name is Mohamed Alnaqbi I'm a cybersecurity enthusiast I love exploring more and more about this field and I have a lot passion into getting better ane better everyday. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm also a content creator in social media I share content about tech-related topics, cybersecurity, coding, and more. In social media I go with the username @emiraticoder. 
+
+
+The following are my technical skills: 
+
+- Penetration testing
+- Python Programming
+- Database Management
+- Ethical Hacking
 
 What else do you need?
 
-### My story
+### My Goal
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- To become better everyday and learn as much as I can.
+- Getting the following certificates (PNPT, OSCP, OSED) for now.
+- To make my family and friends proud

@@ -2,7 +2,7 @@
 layout: post
 title: Pentesting CheatSheet
 subtitle: My ultimate cheatsheet for pentesting and more..
-gh-repo: daattali/beautiful-jekyll
+gh-repo: emiraticoder/beautiful-jekyll
 gh-badge:
   - star
   - fork

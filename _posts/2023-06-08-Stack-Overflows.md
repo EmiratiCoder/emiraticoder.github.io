@@ -1,7 +1,7 @@
 ---
 category: Windows Exploit Development
 title: 'Stack Overflows'
-type: 'Windows'
+type: 'Windows Exploit Development'
 
 layout: null
 ---

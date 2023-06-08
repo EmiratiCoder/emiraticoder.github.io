@@ -1,6 +1,6 @@
 ---
 category: Windows Exploit Development
-title: 'Stack Overflows'
+title: 'SEH Overflows'
 type: 'Windows Exploit Development'
 
 layout: null

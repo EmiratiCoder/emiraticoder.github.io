@@ -1,6 +1,6 @@
 ---
 exclude: ['README.markdown']
-permalink: ':title'
+permalink: ':EmiratiCoder notes'
 highlighter: pygments
 safe: false
-title: 'Carte'
+title: 'EmiratiCoder'

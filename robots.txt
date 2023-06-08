@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /images/
+Disallow: /you_a_super_hacker/

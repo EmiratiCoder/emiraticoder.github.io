@@ -1,6 +1,0 @@
----
-exclude: ['README.markdown']
-permalink: ':EmiratiCoder notes'
-highlighter: pygments
-safe: false
-title: 'EmiratiCoder'

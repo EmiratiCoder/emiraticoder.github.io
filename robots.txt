@@ -1,2 +1,0 @@
-User-agent: *
-Disallow: /you_a_super_hacker/
